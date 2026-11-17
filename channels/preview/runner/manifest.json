@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "component": "runner",
+  "version": "0.1.0-preview.2",
+  "channel": "preview",
+  "protocol": 1,
+  "minimumHostVersion": 1,
+  "asset": {
+    "url": "https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/runner-v0.1.0-preview.2/runner.cjs",
+    "sha256": "bea46b430adbbfb178e5a71a68d0a3a82f8bff46aab407b0542e4ed101c555ba",
+    "size": 2053
+  }
+}

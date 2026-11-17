@@ -9,7 +9,7 @@ Distribuzione pubblica di My Sorintian Team. Questo repository contiene installe
 
 ## Client
 
-Scarica il pacchetto dalle [release](../../releases). Nel client apri **Impostazioni → Aggiornamenti**. Il controllo automatico avviene all'avvio e ogni sei ore; il client scarica la nuova versione e propone il riavvio. Nessun account GitHub è richiesto.
+Scarica il pacchetto dalle [release](../../releases). Nel client apri **Impostazioni → Aggiornamenti**. Il controllo automatico avviene all'avvio e ogni sei ore. Il client scarica la nuova versione e propone il riavvio. I servizi locali hanno pulsanti separati per il controllo, il download e l'aggiornamento. Nessun account GitHub è richiesto.
 
 L'anteprima `0.1.0-preview.2` precedente non contiene un updater: installa una volta la nuova versione. Le anteprime non firmate possono richiedere autorizzazione del sistema operativo; l'aggiornamento automatico macOS richiede una build firmata. Su Linux l'auto-installazione usa AppImage; i pacchetti deb si aggiornano tramite installazione del nuovo pacchetto.
 
@@ -17,10 +17,12 @@ L'anteprima `0.1.0-preview.2` precedente non contiene un updater: installa una v
 
 Estrai il pacchetto e avvia `node host.cjs`. Imposta `MY_IT_TEAM_DATA_DIR` a una directory persistente distinta per ogni servizio.
 
+- `node host.cjs status`: stato del gestore attivo.
 - `node host.cjs check`: controlla la nuova release.
 - `node host.cjs stage`: verifica e prepara l'aggiornamento.
-- `MY_IT_TEAM_AUTO_UPDATE=1 node host.cjs`: controlla e applica gli aggiornamenti quando il servizio conferma di potersi fermare (sintassi POSIX; su PowerShell imposta `$env:MY_IT_TEAM_AUTO_UPDATE='1'`).
-- `node host.cjs update`: avvia il servizio e applica l'aggiornamento disponibile.
+- `node host.cjs update`: applica l'aggiornamento richiesto dall'operatore al gestore già attivo, senza avviare una seconda copia del servizio.
+
+I comandi richiedono la stessa `MY_IT_TEAM_DATA_DIR` del processo attivo. Backend e runner controllano e scaricano in background, ma **non si riavviano autonomamente**. Un aggiornamento già scaricato viene applicato al successivo avvio del servizio. In alternativa l'operatore può usare la CLI o, per i servizi locali, i pulsanti del client.
 
 Il gestore preserva i dati e ripristina il codice precedente se la nuova versione non supera l'avvio. Non avviare più gestori sulla stessa directory. Le migrazioni dati future devono essere retrocompatibili per consentire il ripristino.
 

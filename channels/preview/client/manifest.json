@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "component": "client",
-  "version": "0.2.0-preview.3",
+  "version": "0.2.0-preview.4",
   "channel": "preview",
   "protocol": 1,
   "minimumHostVersion": 1

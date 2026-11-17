@@ -1,17 +1,17 @@
-version: 0.2.0-preview.3
+version: 0.2.0-preview.4
 files:
-  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.3/My-Sorintian-Team-0.2.0-preview.3-mac-x64.zip
-    sha512: E+ZaQofdGyzf3xa96ZA4rDMybw/R2Fw66s7qZGF6TTyy7yPaFT5HWQPjctkqH6dHs2Rrhqoyq6R8a6xmKBUp2w==
-    size: 122776921
-  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.3/My-Sorintian-Team-0.2.0-preview.3-mac-arm64.zip
-    sha512: 6gAF0DiWUUUV36TBqYf9LCpyPr5VjgNb+Dm26xOFb38Vn2eDgvjnZUGQ/8b6N92wkxZgptY2zgogiaavRs5D3w==
-    size: 118661640
-  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.3/My-Sorintian-Team-0.2.0-preview.3-mac-x64.dmg
-    sha512: kdv6+dLwHz5srjNGFnwDhYfKhEyra+/C/B/h0/8mhqfY/8BOGGCYomNbuyJByqay3s9WoSABg8X2F3lExSMeBw==
-    size: 126242934
-  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.3/My-Sorintian-Team-0.2.0-preview.3-mac-arm64.dmg
-    sha512: 40px6wrbLwUXIpH7LujeOB6/zSx9bgikv/zWEZ+aRsojoI+J1ENIBX/ITGcIbfjXYNOEZl1JP807Dmegy6Q7/g==
-    size: 122143309
-path: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.3/My-Sorintian-Team-0.2.0-preview.3-mac-x64.zip
-sha512: E+ZaQofdGyzf3xa96ZA4rDMybw/R2Fw66s7qZGF6TTyy7yPaFT5HWQPjctkqH6dHs2Rrhqoyq6R8a6xmKBUp2w==
-releaseDate: '2026-11-17T10:27:30.869Z'
+  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.4/My-Sorintian-Team-0.2.0-preview.4-mac-x64.zip
+    sha512: IsF0KNliC/GSQfGc0bFAOBW9zQRdHfywLBCqcbCkRYOnHa+psjCK/r7Is6V8vYFStLh6McJFWRMVdZcHfldCyg==
+    size: 122777426
+  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.4/My-Sorintian-Team-0.2.0-preview.4-mac-arm64.zip
+    sha512: pKXV5w1cS5OWH3z+/sbBpLYek1y0KSgrpmn9jMWAojpbx7WKGTCSBFAlnymj5jn8CqO4sIZ3CIrVVtP/AJcrNg==
+    size: 118662145
+  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.4/My-Sorintian-Team-0.2.0-preview.4-mac-x64.dmg
+    sha512: T7r1E0HgfH+DoW2ZA3tlcf1zK5dGndlAa0hISF1DnIsj/2GW9b6de3oPZeTeRW+JZbucSULAeKZwaaKZ4HeBpg==
+    size: 126243123
+  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.4/My-Sorintian-Team-0.2.0-preview.4-mac-arm64.dmg
+    sha512: 3UUj41kcYZCLFpaq2NR5u4gSAr07icHNSfqhgOHwCzEibcBZKBIU+/Qlr3jcJfF7rPLDXB2UsPFYC752K/YTrA==
+    size: 122143502
+path: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.4/My-Sorintian-Team-0.2.0-preview.4-mac-x64.zip
+sha512: IsF0KNliC/GSQfGc0bFAOBW9zQRdHfywLBCqcbCkRYOnHa+psjCK/r7Is6V8vYFStLh6McJFWRMVdZcHfldCyg==
+releaseDate: '2026-11-17T10:33:50.434Z'

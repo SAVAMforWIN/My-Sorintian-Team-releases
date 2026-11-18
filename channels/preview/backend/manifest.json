@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "component": "backend",
-  "version": "0.1.0-preview.5",
+  "version": "0.1.0-preview.7",
   "channel": "preview",
   "protocol": 1,
   "minimumHostVersion": 1,
   "asset": {
-    "url": "https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/backend-v0.1.0-preview.5/backend.cjs",
-    "sha256": "a00b8f7acdf809010c18b2f7a6354b68b29148cd000f5cf418330acaaf4f44e2",
-    "size": 811372
+    "url": "https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/backend-v0.1.0-preview.7/backend.cjs",
+    "sha256": "90866db299cbe937021aebaadb95e798cab5f4e669ef11536879848c9c2bbf50",
+    "size": 874256
   }
 }

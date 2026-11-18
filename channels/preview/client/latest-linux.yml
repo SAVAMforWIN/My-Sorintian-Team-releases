@@ -1,12 +1,12 @@
-version: 0.2.0-preview.22
+version: 0.2.0-preview.23
 files:
-  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.22/My-Sorintian-Team-0.2.0-preview.22-linux-x86_64.AppImage
-    sha512: ooYj7WrVGU2QjVDRzu/i44uwFxPOlvTHGmVez9OUkF37qMYF/b/59evkMUYNBC22S6QC5dDTqVge5qonGhRPxQ==
-    size: 293311670
-    blockMapSize: 308426
-  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.22/My-Sorintian-Team-0.2.0-preview.22-linux-amd64.deb
-    sha512: f9UPTvh31ZsIiAH50X0AbFZ3pLT5/KQ6lGbOsxn3oR9Mej51NNPk5TqkoPeo7PwtjHEOB25NQfztRX6SGczsOw==
-    size: 230284540
-path: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.22/My-Sorintian-Team-0.2.0-preview.22-linux-x86_64.AppImage
-sha512: ooYj7WrVGU2QjVDRzu/i44uwFxPOlvTHGmVez9OUkF37qMYF/b/59evkMUYNBC22S6QC5dDTqVge5qonGhRPxQ==
-releaseDate: '2026-11-18T12:27:29.669Z'
+  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.23/My-Sorintian-Team-0.2.0-preview.23-linux-x86_64.AppImage
+    sha512: CaONBovG/Z0W0yXwvjdOSiaTHtTTijcauAY468w0adW2kGM0VAyujPsiqYe/o768ZOSH0SfZkGEDkHzAbSSP5A==
+    size: 293311702
+    blockMapSize: 308458
+  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.23/My-Sorintian-Team-0.2.0-preview.23-linux-amd64.deb
+    sha512: LOqOVtbHndDDE227dKxgyVfd+BToxcvqQiWN/J+fx9ZbWIKTGWeROD9gcLoxxvJWWzZFRgRM75QKD1N7GtdCOw==
+    size: 230286884
+path: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.23/My-Sorintian-Team-0.2.0-preview.23-linux-x86_64.AppImage
+sha512: CaONBovG/Z0W0yXwvjdOSiaTHtTTijcauAY468w0adW2kGM0VAyujPsiqYe/o768ZOSH0SfZkGEDkHzAbSSP5A==
+releaseDate: '2026-11-18T12:46:20.122Z'

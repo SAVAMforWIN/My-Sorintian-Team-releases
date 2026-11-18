@@ -1,8 +1,8 @@
-version: 0.2.0-preview.14
+version: 0.2.0-preview.15
 files:
-  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.14/My-Sorintian-Team-0.2.0-preview.14-win-x64.exe
-    sha512: /22KJYZXd981UjGodoCU25TM4b88pB7FYiv8sdMHXZqxsArur7vJgBhxrKjVBJ/AUgL8di5n9rpE47iTPApZGg==
-    size: 252990398
-path: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.14/My-Sorintian-Team-0.2.0-preview.14-win-x64.exe
-sha512: /22KJYZXd981UjGodoCU25TM4b88pB7FYiv8sdMHXZqxsArur7vJgBhxrKjVBJ/AUgL8di5n9rpE47iTPApZGg==
-releaseDate: '2026-11-18T00:22:41.103Z'
+  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.15/My-Sorintian-Team-0.2.0-preview.15-win-x64.exe
+    sha512: SQiYHNqYsgr2ZxiYjL1I5JrO1QXonq9QiWV4OQ/MoMvEJOz+yJJi38juh9aLR9pCBdmGzOEx3VHt7/f1Ik2JCg==
+    size: 252990318
+path: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.15/My-Sorintian-Team-0.2.0-preview.15-win-x64.exe
+sha512: SQiYHNqYsgr2ZxiYjL1I5JrO1QXonq9QiWV4OQ/MoMvEJOz+yJJi38juh9aLR9pCBdmGzOEx3VHt7/f1Ik2JCg==
+releaseDate: '2026-11-18T00:43:19.387Z'

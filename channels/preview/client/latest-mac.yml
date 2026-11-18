@@ -1,11 +1,11 @@
-version: 0.2.0-preview.21
+version: 0.2.0-preview.22
 files:
-  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.21/My-Sorintian-Team-0.2.0-preview.21-mac-x64.zip
-    sha512: A0aw+9IZseO/HSNKCZ63/i3ZM6lAPxld8pc1QwkLqEkY70mxbl+jLuVuvPvZ0Y5KJRMSd9ij6uCRcnOWj6OrPw==
-    size: 278692442
-  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.21/My-Sorintian-Team-0.2.0-preview.21-mac-arm64.zip
-    sha512: 37h37/sUfQ2YEFh8+4hlcBgZI1zomD7TWRtaXFqtU8EHhnT1MXeLwU+qBtOiB0z+FUJaVMMYAJ6AQgDaPNgstw==
-    size: 262985001
-path: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.21/My-Sorintian-Team-0.2.0-preview.21-mac-x64.zip
-sha512: A0aw+9IZseO/HSNKCZ63/i3ZM6lAPxld8pc1QwkLqEkY70mxbl+jLuVuvPvZ0Y5KJRMSd9ij6uCRcnOWj6OrPw==
-releaseDate: '2026-11-18T11:21:05.074Z'
+  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.22/My-Sorintian-Team-0.2.0-preview.22-mac-x64.zip
+    sha512: C6t+DT4PKsz8rf9rtKJr6nqfFgbeEN1iGnbFOw+wGVAxUEZIgJWsVYcISE/o2M5JqNI4+OAKvbfrt+TqHZIfpw==
+    size: 278693794
+  - url: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.22/My-Sorintian-Team-0.2.0-preview.22-mac-arm64.zip
+    sha512: 8DyiejyjazKIbte6DOH9vTOhb2IAmYLyFRo/WVpjwCSrN879laQm+btAP9q0rPLOvLFdscaWCMWN1jSvcY/N3A==
+    size: 262986353
+path: https://github.com/SAVAMforWIN/My-Sorintian-Team-releases/releases/download/client-v0.2.0-preview.22/My-Sorintian-Team-0.2.0-preview.22-mac-x64.zip
+sha512: C6t+DT4PKsz8rf9rtKJr6nqfFgbeEN1iGnbFOw+wGVAxUEZIgJWsVYcISE/o2M5JqNI4+OAKvbfrt+TqHZIfpw==
+releaseDate: '2026-11-18T12:28:05.424Z'
